@@ -12,7 +12,8 @@
         }
         body {
             font-family: Arial, sans-serif;
-            background: url('background-image.jpg') no-repeat center center/cover;
+            background: url('![IMG_7734](https://github.com/user-attachments/assets/98b8050d-daaf-4f73-8349-e90fd307406d)
+') no-repeat center center/cover;
             color: white;
             text-align: center;
         }
@@ -69,7 +70,8 @@
 <body>
     <div class="container">
         <div class="logo">
-            <img src="logo.png" alt="Jawaxa Ethnics">
+            <img src="![Group 8](https://github.com/user-attachments/assets/0f9d0ec8-026c-441f-a1bd-76dba3dedad2)
+" alt="Jawaxa Ethnics">
         </div>
         <h1>Jawaxa Ethnics – Weaving Heritage into Every Thread</h1>
         <p>Since 1977, our family has been deeply rooted in the art of weaving. At Jawaxa Ethnics, we blend generations of craftsmanship with modern elegance, curating sarees that honor India’s rich textile heritage...</p>
